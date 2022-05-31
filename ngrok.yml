@@ -1,0 +1,7 @@
+authtoken: <your_token_from_ngrok>
+tunnels:
+  ssh:
+    proto: tcp
+    addr: 22
+
+console_ui: false
